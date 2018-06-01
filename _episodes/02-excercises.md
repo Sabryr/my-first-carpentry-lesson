@@ -48,14 +48,19 @@ Hello world!
 You can use code clocks inside excercises
 
 
-> ## How to use R code in Markdown
-> Give exmaple
+You can use code blocks inside exercises.
+
+> ## How to use R code in R Markdown
+> 
+> Provide one example of one R code
+> that is going to be run by R Markdown.
 >
 > > ## Solution
 > >
-> > ´´´{r}
+> > ```{r}
 > > x <- 1
 > > 1 -> y
-> > ´´´
+> > x + y
+> > ```
 > {: .solution}
 {: .challenge}
