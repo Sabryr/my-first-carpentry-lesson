@@ -21,6 +21,17 @@ Markdowsn is a markup language
 
 - Apple
 - Orange
+You can use ´+´ for list and jekyll will not mind
+
++ Apple
++ Banana
++ Ornage
+
+For numbers list, start withlline with number followed by a dot
+
+1. Lesson one
+2. Lesson two
+3. Lesson three
 
 {% include links.md %}
 
