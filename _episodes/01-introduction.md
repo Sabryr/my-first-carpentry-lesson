@@ -33,5 +33,10 @@ For numbers list, start withlline with number followed by a dot
 2. Lesson two
 3. Lesson three
 
+
+Emphasis using ´*´ (italic) ´**´ (bold)
+
+*italic text*
+**bold text**
 {% include links.md %}
 
