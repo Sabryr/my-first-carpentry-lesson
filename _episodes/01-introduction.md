@@ -6,6 +6,7 @@ questions:
 - "What is Markdown ?"
 - "How do I create a list ?"
 - "How do I insert a figure?"
+
 objectives:
 - "Know what Markdown is"
 - "Know how to insert lists"
@@ -34,11 +35,11 @@ For numbers list, start withlline with number followed by a dot
 2. Lesson two
 3. Lesson three
 
-
 Emphasis using ´*´ (italic) ´**´ (bold)
 
 *italic text*
 **bold text**
+
 
 {% include links.md %}
 
