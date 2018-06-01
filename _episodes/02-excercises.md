@@ -12,6 +12,24 @@ keypoints:
 
 This is our first exercise.
 
+~~~
+print("Hello world!")
+~~~
+{: .language-python}
+
+~~~
+x <- 4
+~~~
+{: .language-r}
+
+~~~
+Hello world!
+
+~~~
+{: .out}
+
+
+
 > ## What is need in a exercise
 > 
 > List all the elements that you need inside a exercise
