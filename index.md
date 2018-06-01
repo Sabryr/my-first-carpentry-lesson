@@ -3,11 +3,11 @@ layout: lesson
 root: .  # Is the only page that don't follow the partner /:path/index.html
 permalink: index.html  # Is the only page that don't follow the partner /:path/index.html
 ---
-FIXME: home page introduction
+Testing lesson creation procedure
 
 > ## Prerequisites
 >
-> FIXME
+> Github account
 {: .prereq}
 
 {% include links.md %}
