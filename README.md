@@ -1,6 +1,6 @@
-# FIXME Lesson title
+# My first carpentry lesson
 
-FIXME
+Workshop during carpentrycon 2018
 
 ## Contributing
 
@@ -15,12 +15,11 @@ and have a look at the [more detailed guidelines][lesson-example] on proper form
 
 ## Maintainer(s)
 
-* FIXME
+* Sabry
 
 ## Authors
 
-A list of contributors to the lesson can be found in [AUTHORS](AUTHORS)
-
+sabry
 ## Citation
 
 To cite this lesson, please consult with [CITATION](CITATION)
