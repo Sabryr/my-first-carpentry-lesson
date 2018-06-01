@@ -14,7 +14,8 @@ objectives:
 keypoints:
 - "Markdown is a markup language that can be converted to HTML"
 - "You use '-' to start a list"
-- "You use ´![Legend](/fig/file.jpg)´ to insert a figure
+- "You use ´![Legend](/fig/file.jpg)´ to insert a figure"
+
 ---
 
 Markdowsn is a markup language
@@ -38,5 +39,6 @@ Emphasis using ´*´ (italic) ´**´ (bold)
 
 *italic text*
 **bold text**
+
 {% include links.md %}
 
