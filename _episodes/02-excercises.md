@@ -44,3 +44,18 @@ Hello world!
 > > - solution to exercise
 > {: .solution}
 {: .challenge}
+
+You can use code clocks inside excercises
+
+
+> ## How to use R code in Markdown
+> Give exmaple
+>
+> > ## Solution
+> >
+> > ´´´{r}
+> > x <- 1
+> > 1 -> y
+> > ´´´
+> {: .solution}
+{: .challenge}
